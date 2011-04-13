@@ -1,7 +1,7 @@
 TGOB Viddler Extension plugin for Wordpress
 ============================================
 
-Viddler extensions to PHPViddler used on http://twoguysonbeer.com - All of these functions are meant to be used in 
+Viddler extensions to PHPViddler used on [http://twoguysonbeer.com](http://twoguysonbeer.com) - All of these functions are meant to be used in 
 conjunction with the Viddler player API, and are used to take posts with a `[viddler ...]` shortcut code in them
 and lay them out as desired.
 
