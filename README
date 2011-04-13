@@ -1,0 +1,5 @@
+Viddler extensions to PHPViddler used on http://twoguysonbeer.com
+
+In tgob-viddler.php edit the $VIDDLER_API_KEY variable to be your API key.
+
+Use the functions inclued in  he plugin in your templates.
